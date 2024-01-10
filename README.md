@@ -1,4 +1,6 @@
 # 2048-Clone
+
+Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
  
 ![Ekran görüntüsü 2023-09-25 174818](https://github.com/ayroh/2048-Clone/assets/76924597/be12159a-07a1-4723-b7a5-bb674b466413)
 
